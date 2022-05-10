@@ -10,8 +10,11 @@ public class Hello {
         mySecondNumber = 11;
         System.out.println(mySecondNumber);
 
+        int myThirdNumber;
+        myThirdNumber = 12;
+
         int sum;
-        sum = myFirstNumber + mySecondNumber;
+        sum = myFirstNumber + mySecondNumber + myThirdNumber;
         System.out.println(myFirstNumber + mySecondNumber);
         System.out.println(sum);
     }
