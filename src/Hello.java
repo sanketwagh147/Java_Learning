@@ -16,7 +16,7 @@ public class Hello {
         int sum;
         sum = myFirstNumber + mySecondNumber + myThirdNumber;
         // System.out.println(myFirstNumber + mySecondNumber);
-        // System.out.println(sum);
+        System.out.println(sum);
     
         // System.out.println(addition(2,3));
         // System.out.println(Sub.sub(5,3));
