@@ -16,6 +16,7 @@ class operatorsChallenge {
         }
         String text = "hello";
 
+        System.out.println(text);
         // text.replace
     }
     
