@@ -19,6 +19,7 @@ public class DiagonalStar {
                 } else if (col == (number - row + 1)) {
                     System.out.print("*");
                 } else
+
                     System.out.print(" ");
             }// close inner loop
             System.out.println();
