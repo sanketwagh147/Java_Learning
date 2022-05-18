@@ -2,8 +2,6 @@ package com.learn;
 
 public class Dog extends Animal {
 
-
-
     public static void main(String[] args) {
         Dog max = new Dog("max",11, 10, 2, 49, 2, "brown");
         Dog sweetly = new Dog("sweets", 1, 1, 10, 2, 2, "brown");
@@ -50,6 +48,14 @@ public class Dog extends Animal {
         System.out.println("bark bark");
     }
 
-    
+    public void run(){
+        System.out.println("Running at a speed of dog");
+    }
+
+
+    public  String addString(String a, String b){
+        System.out.println(a + b);
+        return a + b;
+    }
 
 }
