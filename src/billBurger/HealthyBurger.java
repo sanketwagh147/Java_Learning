@@ -1,3 +1,5 @@
+package billBurger;
+
 public class HealthyBurger extends Hamburger {
     private String healthyExtra1Name;
     private double healthyExtra1Price;
