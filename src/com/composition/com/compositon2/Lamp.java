@@ -21,6 +21,8 @@ public class Lamp {
 
      public String getStyle(){
         return this.style;
+
+     }
     public boolean getBattery() {
         return this.battery;
     }
