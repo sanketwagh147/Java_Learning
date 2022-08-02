@@ -1,3 +1,5 @@
+package com.old;
+
 class Scores {
 
     public static void main(String[] args) {

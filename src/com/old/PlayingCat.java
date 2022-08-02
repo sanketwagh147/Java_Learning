@@ -1,3 +1,5 @@
+package com.old;
+
 public class PlayingCat {
     public static void main(String[] args) {
         

@@ -1,3 +1,5 @@
+package com.old;
+
 public class PaintJob {
     // write your code here
     public static int getBucketCount(double width, double height, double areaPerBucket, int extraBuckets){

@@ -1,3 +1,5 @@
+package com.old;
+
  class terneryOperator {
     public static void main(String[] args) {
         int age = 2;

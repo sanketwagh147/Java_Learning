@@ -1,3 +1,5 @@
+package com.old;
+
 public class Hello {
     public static void main(String[] args) {
         // System.out.println("Hello Java");
@@ -21,8 +23,12 @@ public class Hello {
         // System.out.println(addition(2,3));
         // System.out.println(Sub.sub(5,3));
 
-        System.out.println(OtherMethods.addWoo("sanket"));
+        System.out.println(addWoo("sanket"));
 
+    }
+
+    private static String  addWoo(String string) {
+        return string;
     }
 
     public static int addition(int a, int b) {

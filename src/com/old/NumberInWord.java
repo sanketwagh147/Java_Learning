@@ -1,3 +1,5 @@
+package com.old;
+
 public class NumberInWord {
     public static void main(String[] args) {
         printNumberInWord(1);

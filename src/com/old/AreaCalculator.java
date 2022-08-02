@@ -18,6 +18,16 @@ public class AreaCalculator {
         if (length < 0 || width <0 ) return -1.0;
         return length * width;
         }
+
+    public static double calcFeetAndInchesToCentimeters(double feet , double inches) {
+         if (!(feet >= 0) || !(inches >= 0) || !(inches <= 12)){
+            return -1;
+        } else {
+            return (feet * 12 * 2.54) + (inches * 2.54);
+            
+        }
+    
+    }
         
     }
 

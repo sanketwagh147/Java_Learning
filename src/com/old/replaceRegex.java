@@ -1,3 +1,5 @@
+package com.old;
+
 class replaceRegex {
     public static void main(String[] args) {
         String text = "{{#}} second {{#}} third {{#}}";

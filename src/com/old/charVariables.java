@@ -1,3 +1,5 @@
+package com.old;
+
 class charVariables {
 
     public static void main(String[] args) {

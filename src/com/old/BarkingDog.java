@@ -1,3 +1,5 @@
+package com.old;
+
 public class BarkingDog {
 
     public static void main(String[] args) {

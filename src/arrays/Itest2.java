@@ -6,5 +6,4 @@ public interface  Itest2 {
     int test2 = 2;
 
 
-    pub
 }

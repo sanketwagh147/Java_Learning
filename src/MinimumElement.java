@@ -1,5 +1,5 @@
-
 import java.util.Scanner;
+
 public class MinimumElement {
     // write code here
     private static int readInteger(){

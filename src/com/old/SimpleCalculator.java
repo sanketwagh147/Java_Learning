@@ -1,3 +1,5 @@
+package com.old;
+
 public class SimpleCalculator {
     // write your code here
     private double firstNumber;

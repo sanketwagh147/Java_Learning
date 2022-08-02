@@ -7,8 +7,8 @@ public class GroceryList {
 
     public static void main(String[] args) {
 
-        private static Scanner scanner = new Scanner(System.in);
-        private static GroceryList list = new GroceryList();
+        final Scanner scanner = new Scanner(System.in);
+        GroceryList list = new GroceryList();
 
         boolean quit = false;
         

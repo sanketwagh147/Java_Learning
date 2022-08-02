@@ -1,3 +1,5 @@
+package com.old;
+
 public class HasEqualSum {
 
     public static boolean hasEqualSum(int a, int b, int c) {
